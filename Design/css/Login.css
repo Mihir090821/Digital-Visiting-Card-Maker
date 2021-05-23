@@ -1,0 +1,19 @@
+.ip {
+    border-radius: 10px;
+}
+
+body {
+    height: 100vh;
+    background-image: url('Back1.jfif ');
+    background-size: 100vw;
+}
+
+.box1 {
+    margin-top: 100px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 12px rgb(238, 233, 247);
+}
+
+.logo {
+    filter: invert(70%);
+}
